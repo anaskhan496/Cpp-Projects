@@ -20,7 +20,7 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 
 ## Instructions
 
-1. Clone the project repository: `git clone https://github.com/udacity/CppND-System-Monitor-Project-Updated.git`
+1. Clone the starter project repository: `git clone https://github.com/udacity/CppND-System-Monitor-Project-Updated.git`
 
 2. Build the project: (Note : Delete the build directory existing in the System Monitor Directory. It will cause issues when running cmake) 
  `mkdir build`,
