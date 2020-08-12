@@ -1,4 +1,4 @@
-# CppND-System-Monitor
+# System-Monitor
 The objective of this project is to build a System Monitor for the Linux OS. It is similar to htop but less sophisticated. 
 To run the code: g++ -std="c++17" main.cpp -lncurses
 ./build/monitor
