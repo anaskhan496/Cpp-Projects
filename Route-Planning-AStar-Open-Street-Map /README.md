@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+This repo contains code for the Route Planning project. The objective of this project is to use A* algorithm to find a path from one point to another using Open Street Map Data.
 
 <img src="map.png" width="600" height="450" />
 
